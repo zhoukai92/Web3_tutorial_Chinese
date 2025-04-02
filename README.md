@@ -402,7 +402,7 @@ Solidity 官方文档中，关于数据和结构体，英文文档比中文文�
 
 ## 使用mock合约
 - [什么是mock合约](https://ethereum.org/zh/developers/tutorials/how-to-mock-solidity-contracts-for-testing/)
-- [Chainlink喂价Mock合约](https://github.com/smartcontractkit/chainlink/blob/develop/contracts/src/v0.8/tests/MockV3Aggregator.sol)
+- [Chainlink喂价Mock合约](https://github.com/smartcontractkit/chainlink/blob/develop/contracts/src/v0.8/shared/mocks/MockV3Aggregator.sol)
 
 ## 给FundMe写单元&集成测试
 - [什么是单元测试](https://aws.amazon.com/cn/what-is/unit-testing/)
